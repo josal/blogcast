@@ -1,0 +1,21 @@
+# Welcome to Blogcast
+
+Blogcast is a better way to blog.
+
+>Blogcast is a simplistic Rails 3 blogging engine which has some real nice intelligent defaults and tries to keep things simple so you can focus on writing. -Gregg Pollack & Nathaniel Bibler, Ruby5 Podcast
+
+---
+# Installation
+
+    git clone git://github.com/tiandavis/blogcast.git
+    cd blogcast
+    bundle install
+
+---
+# Getting Started
+
+    rails s
+    http://localhost:3000/admin
+
+Login with l/p: admin
+
